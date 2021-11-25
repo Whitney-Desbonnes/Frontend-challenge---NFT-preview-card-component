@@ -3,11 +3,11 @@
 
 - [Aperçu](#Aperçu)
   - [Le ​​défi](#le-défi)
-  - [Capture d'écran](#capture d'écran)
+  - [Capture d'écran](#capture-d'écran)
   - [Liens](#liens)
 - [Mon processus](#mon-processus)
   - [Construit avec](#construit-avec)
-  - [Ce que j'ai appris](#ce-que-j'ai appris)
+  - [Ce que j'ai appris](#ce-que-j'ai-appris)
   - [Développement continu](#continued-development)
   - [Ressources utiles](#ressources-utiles)
 - [Auteur](#auteur)
@@ -25,7 +25,7 @@
 
 ### Capture d'écran / Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "screenshot")
+![](screenshot.png)
 
 
 ### Liens / Links
@@ -50,7 +50,7 @@
 ```css
 
 
-}
+
 ```
 
 
