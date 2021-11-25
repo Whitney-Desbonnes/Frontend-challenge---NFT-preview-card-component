@@ -104,6 +104,7 @@ main {
 .equilibrium-card_img-hover:hover {
     background-color: rgba(0, 255, 247, 0.5);
     opacity: 1;
+    cursor: pointer;
 }
 
 /* carte image */

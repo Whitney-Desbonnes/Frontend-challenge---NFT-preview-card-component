@@ -25,7 +25,7 @@
 
 ### Capture d'écran / Screenshot
 
-![](screenshot.png)
+![](preview.png)
 
 
 ### Liens / Links
